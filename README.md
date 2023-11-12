@@ -2,7 +2,7 @@
 
 ## My name is blacknigger
 
-![this is img](![image](https://github.com/Alekskol25/pidopor228337/assets/122686627/7ef6243a-4a4b-4600-b8df-ba15206f1768)
+![image](https://github.com/Alekskol25/pidopor228337/assets/122686627/7ef6243a-4a4b-4600-b8df-ba15206f1768)
 
 **I'm javascript developer.**
 
@@ -27,4 +27,5 @@ console.log(Math.random());
 This is unordered list:
 
 *[my instagram](https://www.instagram.com/)
+
 *[my niga](https://github.com/Alekskol25/pidopor228337/assets/122686627/7ef6243a-4a4b-4600-b8df-ba15206f1768)
