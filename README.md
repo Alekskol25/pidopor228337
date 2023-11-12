@@ -4,8 +4,7 @@
 
 ![image](https://github.com/Alekskol25/pidopor228337/assets/122686627/7ef6243a-4a4b-4600-b8df-ba15206f1768)
 
-**I'm javascript developer.**
-*This is the example of my code:*
+**I'm javascript developer.***This is the example of my code:*
 
 ```javascript
 
