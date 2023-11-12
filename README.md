@@ -1,6 +1,6 @@
 # This is my repository
 
-## My name is blacknigger
+## My name is blackniger
 
 ![image](https://github.com/Alekskol25/pidopor228337/assets/122686627/7ef6243a-4a4b-4600-b8df-ba15206f1768)
 
